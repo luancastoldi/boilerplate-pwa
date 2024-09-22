@@ -1,0 +1,39 @@
+{
+    "name": "Luan Castoldi Web App",
+    "short_name": "Luan Castoldi",
+    "description": "",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "icons": [
+      {
+        "src": "src/img/icon.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ],
+    "categories": [
+      "entertainment",
+      "food",
+      "delivery",
+      "menu",
+      "tools"
+    ],
+    "screenshots": [
+      {
+        "src": "src/img/manifest/back.png",
+        "sizes": "453x944",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "imagem 1"
+      },
+      {
+        "src": "src/img/manifest/back.png",
+        "sizes": "453x944",
+        "type": "image/png",
+        "form_factor": "narrow",
+        "label": "Imagem 2"
+      }
+    ]
+  }
